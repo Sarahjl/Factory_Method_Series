@@ -1,3 +1,8 @@
+/*
+    Essa é a class main que será executada o projeto.
+    Teste
+*/
+
 package padrao;
 
 import factory.ComedyDialog;
